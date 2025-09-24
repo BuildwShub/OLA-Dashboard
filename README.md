@@ -516,8 +516,8 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
 For any queries or feedback, feel free to reach out:
 
 - **Name**: Shubham Kanauji
-- **Email**: shubbhamji77@Gmail.com
-- **Linkedin**: [Shubh's Linkedin](https://www.linkedin.com/in/foxsalsa/)
+- **Email**: Shubbhamji77@Gmail.com
+- **Linkedin**: [Shub's Linkedin](https://www.linkedin.com/in/foxsalsa/)
 
 ## 🙌 Acknowledgments
 
@@ -528,4 +528,5 @@ A big shoutout to [Top VarSity](https://www.youtube.com/@TopVarSity) for their h
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://prajwalgopalpoojary.netlify.app/)  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwalgopalpoojary/)  
 [![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prajwalgpa)
+
 
