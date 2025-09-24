@@ -1,6 +1,6 @@
-﻿# 🚖 OLA Data Analyst Project Power BI & SQL
+﻿# 🚖 OLA Dashboard | PowerBI, SQL, Excel |
 
-The OLA Data Analyst Project analyzes ride-booking data using SQL and Power BI to track ride volumes, customer behavior, and driver performance. It focuses on booking statuses, revenue breakdowns by payment method, and top customers. SQL queries are used to calculate ride statistics, and the final Power BI dashboard visualizes key data, including ride volumes, vehicle performance, and sales. The analysis helps optimize OLA's services by identifying trends and areas for improvement.
+This project analyzes OLA ride-booking data using SQL and Power BI to gain insights into ride volumes, customer behavior, and driver performance. It focuses on booking statuses, revenue breakdowns by payment method, and identifying top customers. SQL queries calculate key statistics, while Power BI dashboards visualize ride trends, vehicle performance, and revenue patterns. The analysis helps optimize OLA's operations by uncovering trends and improvement opportunities.
 
 ## 🎥 Demo
 
@@ -351,7 +351,7 @@ This file simplifies setting up the project and ensures all queries and views ar
 
 # OLA Data Analysis in Power BI 📊
 
-This Power BI project provides a comprehensive analysis of OLA's operational and customer data, focusing on ride volume, customer ratings, revenue, and performance metrics. The analysis leverages dynamic dashboards, interactive charts, and key performance indicators (KPIs) to identify trends and insights.
+This project visualizes OLA ride data using Power BI, providing insights on ride volumes, customer ratings, revenue, and performance metrics. Interactive dashboards and KPIs help identify trends and optimize operations.
 
 ## ✨ Key Features
 
@@ -526,6 +526,7 @@ A big shoutout to [Top VarSity](https://www.youtube.com/@TopVarSity) for their h
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/foxsalsa/)  
+
 
 
 
